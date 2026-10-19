@@ -1,9 +1,10 @@
 # Case Study Submission: Fullstack Product Engineer
-**Candidate:** Product Engineer Candidate  
-**Repository:** [github.com/rakamindev/ai-interview-platform](https://github.com/rakamindev/ai-interview-platform)  
+**Candidate:** Wan Hasib Al Aslamy (wanhasibala)  
+**Repository (Fork):** [github.com/wanhasibala/ai-interview-platform](https://github.com/wanhasibala/ai-interview-platform)  
+**Upstream Base:** [github.com/rakamindev/ai-interview-platform](https://github.com/rakamindev/ai-interview-platform)  
 **Feature Branch:** `revamp/fullstack-product-engineer`  
-**Pull Request:** Single Comprehensive PR (Option A) across `api/` and `web/`  
-**Claimed Engineering Depth:** Balanced Fullstack Product Engineer (Backend Data Consistency & Distributed Concurrency + Frontend UI/UX Craft & UU PDP Compliance)
+**Pull Request Link:** [Create PR / View PR](https://github.com/wanhasibala/ai-interview-platform/pull/new/revamp/fullstack-product-engineer)  
+**Claimed Engineering Depth:** Balanced Fullstack Product Engineer (Backend Data Consistency & Distributed Concurrency + Frontend UI/UX Craft & Indonesian UU PDP Compliance)
 
 ---
 
@@ -239,20 +240,20 @@ Recognizing the cascade risk, we rejected the destructive suggestion and designe
 ## 10. Visual Flow Architecture
 
 ### 1. Fit/Gap Evaluation Matrix with Human Overrides
-*(See vector asset: `assessment/screenshots/01-fitgap-matrix.svg`)*  
-Shows the repaired "Required" column, candidate ratings, amber `✏ Override` marker with tooltip rationale, and culture narrative summary.
+![Fit/Gap Comparison Matrix](screenshots/01-fitgap-matrix.png)  
+*Figure 1: Shows the repaired "Required" column, candidate ratings, amber `✏ Override` marker with tooltip rationale, and culture narrative summary.*
 
 ### 2. Indonesian UU PDP No. 27/2022 Statutory Notice
-*(See vector asset: `assessment/screenshots/02-uupdp-consent.svg`)*  
-Shows the 4 compliance pillars (Voice biometrics, AI evaluation, Human-in-the-loop guarantee, Subject rights) and explicit consent gate.
+![Indonesian UU PDP Consent Card](screenshots/02-uupdp-consent.png)  
+*Figure 2: Shows the 4 compliance pillars (Voice biometrics, AI evaluation, Human-in-the-loop guarantee, Subject rights) and explicit consent gate.*
 
 ### 3. Interview Wrap-Up Trapping Prevention Architecture
-*(See vector asset: `assessment/screenshots/03-trapping-architecture.svg`)*  
-Contrasts the flawed baseline (where initiated discovered skills trapped sessions) against the revamped time-aware auto-wrap engine.
+![Trapping Prevention Flow](screenshots/03-trapping-architecture.png)  
+*Figure 3: Contrasts the flawed baseline (where initiated discovered skills trapped sessions) against the revamped time-aware auto-wrap engine.*
 
 ### 4. Assessor Override Lifecycle & Data Integrity
-*(See vector asset: `assessment/screenshots/04-override-preservation.svg`)*  
-Contrasts the destructive cascade wipe against the in-place reconciliation pattern.
+![In-Place Reconciliation](screenshots/04-override-preservation.png)  
+*Figure 4: Contrasts the destructive cascade wipe against the in-place reconciliation pattern.*
 
 ---
 
