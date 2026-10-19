@@ -13,7 +13,7 @@
   <rect x="65" y="155" width="340" height="40" rx="6" fill="#ffffff" stroke="#fda4af" />
   <text x="80" y="179" font-size="11" fill="#475569">1. All configured skills reach state: &quot;covered&quot;</text>
 
-  <line x1="235" y1="195" x2="235" y2="215" stroke="#f43f5e" stroke-width="2" marker-end="url(#arrow)" />
+  <line x1="235" y1="195" x2="235" y2="215" stroke="#f43f5e" stroke-width="2" />
 
   <rect x="65" y="215" width="340" height="50" rx="6" fill="#ffffff" stroke="#fda4af" />
   <text x="80" y="236" font-size="11" fill="#475569">2. Discovered skill (e.g. GraphQL) created in turn 3</text>
@@ -23,8 +23,8 @@
 
   <rect x="65" y="285" width="340" height="60" rx="6" fill="#ffffff" stroke="#f43f5e" stroke-width="1.5" />
   <text x="80" y="306" font-size="11" font-weight="600" fill="#b91c1c">3. all_covered? condition evaluates:</text>
-  <text x="80" y="322" font-size="10" font-family="monospace" fill="#be123c">return false if discovered.any?(&:initiated)</text>
-  <text x="80" y="337" font-size="10.5" font-weight="600" fill="#e11d48">❌ Evaluates to FALSE permanently</text>
+  <text x="80" y="322" font-size="10" font-family="monospace" fill="#be123c">return false if discovered.any?(&amp;:initiated)</text>
+  <text x="80" y="337" font-size="10.5" font-weight="600" fill="#e11d48">X Evaluates to FALSE permanently</text>
 
   <rect x="65" y="360" width="340" height="55" rx="6" fill="#ffe4e6" />
   <text x="80" y="380" font-size="10.5" font-weight="600" fill="#9f1239">CRITICAL USER IMPACT:</text>
